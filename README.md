@@ -1,3 +1,11 @@
+
+# DUYURU
+
+Bu proje geçici bir süreliğine askıya alınmıştır.
+
+
+
+
 # ResetOS
 a open-source web basement cloud os system
 
